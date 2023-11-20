@@ -19,7 +19,7 @@
 <h2>Installation and Setup</h2>
 <p>To set up this project locally, follow the steps below:</p>
 <p><code>git clone [repository URL]</code></p>
-<p><code>cd deckel_maps</code></p>
+<p><code>cd map-drawing-board</code></p>
 <p><code>npm install</code></p>
 <p>API Key Configuration:</p>
 <ul>
